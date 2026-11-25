@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: <mark>`Nickolas Xisto Machado`</mark>
+- **Cartão UFRGS:** <mark>`00341038`</mark>
 
 ## Dados utilizados
 
